@@ -1,4 +1,4 @@
 # ReinforcementLearning-Agent
 
 # Videos of different Reinforcement Learning Agent playing Atari games
-![](pong.mp4)
+![video](pong.mp4)
