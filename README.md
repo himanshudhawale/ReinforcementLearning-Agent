@@ -1,3 +1,3 @@
 # ReinforcementLearning-Agent
 
-# Videos of different Reinforcement Learning Agent's performance
+# Videos of different Reinforcement Learning Agent playing Atari games
